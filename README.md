@@ -1,6 +1,6 @@
 Author: 
-Shashank Dattathri
-Master of Science
+Shashank Dattathri, 
+Master of Science, 
 Indian Institute of Science
 
 Duration of project: 
