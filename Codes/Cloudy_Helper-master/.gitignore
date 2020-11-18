@@ -1,0 +1,15 @@
+# Ignore Everything
+*
+
+# Except
+!README.md
+!.gitignore
+!CoolingFunction/
+
+# Python
+!*.py
+
+# C/C++
+!*.c
+!*.cpp
+!*.h
