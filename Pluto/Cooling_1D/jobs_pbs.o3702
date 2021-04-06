@@ -1,0 +1,241 @@
+compute-0-6.local:CMA:4341:d59d3f00: 82 us(82 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1df9:24198f00: 85 us(85 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1dfa:1d94df00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1dfc:34c76f00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1067:8c352f00: 92 us(92 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:106c:2b45af00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:434b:912a8f00: 81 us(81 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4341:d59d3f00: 49 us(49 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1061:312b0f00: 80 us(80 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:106a:10dfff00: 64 us(64 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1df9:24198f00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1dfa:1d94df00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1dfc:34c76f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:106c:2b45af00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1067:8c352f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:4341:d59d3f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:4341:d59d3f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4342:ba56bf00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4342:ba56bf00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:4343:7107bf00: 63 us(63 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4344:1b854f00: 68 us(68 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4344:1b854f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:4345:40bedf00: 66 us(66 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4346:e124df00: 63 us(63 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4347:f8689f00: 64 us(64 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4348:c66fef00: 67 us(67 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4349:18c94f00: 65 us(65 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:434a:24439f00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:434b:912a8f00: 48 us(48 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:434b:912a8f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:434c:8fb9f00: 67 us(67 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:434c:8fb9f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:434d:87eaef00: 62 us(62 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:434e:d6836f00: 62 us(62 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:434f:ed88ef00: 63 us(63 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4350:443c7f00: 58 us(58 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:434d:87eaef00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:434a:24439f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:4350:443c7f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:4345:40bedf00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:4349:18c94f00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:434c:8fb9f00: 45 us(45 us): compute-0-5.local:CMA:1df9:24198f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1dfa:1d94df00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1dfb:1b2ff00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1dfc:34c76f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1dfd:9e07ff00: 69 us(69 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1dfe:dc648f00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1dff:d9813f00: 62 us(62 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1dff:d9813f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e00:3ae26f00: 64 us(64 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e00:3ae26f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e01:22ef4f00: 59 us(59 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e02:172bef00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e03:b8c18f00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e04:947e8f00: 66 us(66 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e04:947e8f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e05:6f506f00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e05:6f506f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e06:6d9bef00: 84 us(84 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e06:6d9bef00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e07:6a7e3f00: 64 us(64 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-5.local:CMA:1e07:6a7e3f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e08:7876f00: 62 us(62 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-6.local:CMA:4343:7107bf00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:434f:ed88ef00: 46 us(46 us): compute-0-5.local:CMA:1dfb:1b2ff00: 48 us(48 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1dfe:dc648f00: 48 us(48 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:434e:d6836f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1dfc:34c76f00: 44 us(44 us): compute-0-5.local:CMA:1df9:24198f00: 58 us(58 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1dfa:1d94df00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4347:f8689f00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e06:6d9bef00: 47 us(47 us): compute-0-6.local:CMA:4348:c66fef00: 45 us(45 us): compute-0-5.local:CMA:1e08:7876f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:4346:e124df00: 44 us(44 us): compute-0-5.local:CMA:1dfd:9e07ff00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:434b:912a8f00: 44 us(44 us): compute-0-5.local:CMA:1e02:172bef00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e03:b8c18f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-5.local:CMA:1e01:22ef4f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-6.local:CMA:4344:1b854f00: 46 us(46 us): compute-0-5.local:CMA:1e04:947e8f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:105f:2a9b8f00: 63 us(63 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:105f:2a9b8f00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1060:8a119f00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1060:8a119f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1061:312b0f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1061:312b0f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:1062:49da4f00: 68 us(68 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1062:49da4f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1063:e4e41f00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1063:e4e41f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1064:70445f00: 61 us(61 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1064:70445f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1065:c2c02f00: 62 us(62 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1065:c2c02f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1066:66ff6f00: 71 us(71 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1066:66ff6f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1067:8c352f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:1067:8c352f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:1068:667a0f00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1068:667a0f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1069:54d82f00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:1069:54d82f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1069:54d82f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:106a:10dfff00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:106a:10dfff00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:106b:84f1cf00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:106b:84f1cf00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:106c:2b45af00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:106c:2b45af00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:106d:89db1f00: 68 us(68 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:106d:89db1f00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:106e:f087ef00: 62 us(62 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib0 configured?
+compute-0-4.local:CMA:106e:f087ef00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib1 configured?
+compute-0-4.local:CMA:1068:667a0f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:4342:ba56bf00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1e00:3ae26f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:434d:87eaef00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:4350:443c7f00: 42 us(42 us): compute-0-6.local:CMA:434a:24439f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:1061:312b0f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4341:d59d3f00: 47 us(47 us): compute-0-5.local:CMA:1dff:d9813f00: 43 us(43 us): compute-0-4.local:CMA:106a:10dfff00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e07:6a7e3f00: 44 us(44 us): compute-0-4.local:CMA:106b:84f1cf00: 41 us(41 us): compute-0-6.local:CMA:4345:40bedf00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:106e:f087ef00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:4349:18c94f00: 45 us(45 us): compute-0-5.local:CMA:1e05:6f506f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:434c:8fb9f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4343:7107bf00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:434f:ed88ef00: 44 us(44 us): compute-0-4.local:CMA:1060:8a119f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:1065:c2c02f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:1063:e4e41f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1dfe:dc648f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:434e:d6836f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1dfb:1b2ff00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-6.local:CMA:4347:f8689f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1dfa:1d94df00: 43 us(43 us): compute-0-6.local:CMA:4348:c66fef00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4346:e124df00: 43 us(43 us): compute-0-5.local:CMA:1df9:24198f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:106d:89db1f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1dfc:34c76f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e06:6d9bef00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1e08:7876f00: 47 us(47 us): compute-0-5.local:CMA:1dfd:9e07ff00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:1062:49da4f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:106c:2b45af00: 47 us(47 us): compute-0-4.local:CMA:105f:2a9b8f00: 60 us(60 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:1064:70445f00: 46 us(46 us): compute-0-6.local:CMA:434b:912a8f00: 45 us(45 us): compute-0-4.local:CMA:1066:66ff6f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-4.local:CMA:1067:8c352f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e03:b8c18f00: 45 us(45 us): compute-0-4.local:CMA:1069:54d82f00: 45 us(45 us): compute-0-5.local:CMA:1e02:172bef00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4344:1b854f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1e01:22ef4f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib2 configured?
+compute-0-5.local:CMA:1e04:947e8f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4342:ba56bf00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:1068:667a0f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:434d:87eaef00: 47 us(47 us): compute-0-5.local:CMA:1e00:3ae26f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:434a:24439f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4350:443c7f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1dff:d9813f00: 43 us(43 us): compute-0-4.local:CMA:1061:312b0f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4345:40bedf00: 46 us(46 us): compute-0-4.local:CMA:106a:10dfff00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e07:6a7e3f00: 44 us(44 us): compute-0-4.local:CMA:106e:f087ef00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:106b:84f1cf00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4349:18c94f00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1e05:6f506f00: 43 us(43 us): compute-0-6.local:CMA:434c:8fb9f00: 49 us(49 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4343:7107bf00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:434f:ed88ef00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:1063:e4e41f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:1065:c2c02f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1dfe:dc648f00: 44 us(44 us): compute-0-4.local:CMA:1060:8a119f00: 44 us(44 us): compute-0-6.local:CMA:434e:d6836f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1dfb:1b2ff00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4347:f8689f00: 48 us(48 us): compute-0-6.local:CMA:4348:c66fef00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4346:e124df00: 49 us(49 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1dfd:9e07ff00: 49 us(49 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:106d:89db1f00: 44 us(44 us): compute-0-5.local:CMA:1e06:6d9bef00: 49 us(49 us): compute-0-4.local:CMA:1062:49da4f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1e08:7876f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:1066:66ff6f00: 43 us(43 us): compute-0-4.local:CMA:105f:2a9b8f00: 53 us(53 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-4.local:CMA:1064:70445f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-6.local:CMA:4344:1b854f00: 45 us(45 us): compute-0-5.local:CMA:1e03:b8c18f00: 44 us(44 us): compute-0-4.local:CMA:1069:54d82f00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e01:22ef4f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1e02:172bef00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is ib3 configured?
+compute-0-5.local:CMA:1e04:947e8f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4342:ba56bf00: 47 us(47 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:1068:667a0f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:434a:24439f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:434d:87eaef00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4350:443c7f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e00:3ae26f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4345:40bedf00: 45 us(45 us): compute-0-5.local:CMA:1dff:d9813f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e07:6a7e3f00: 46 us(46 us): compute-0-6.local:CMA:4349:18c94f00: 55 us(55 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:106b:84f1cf00: 41 us(41 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:106e:f087ef00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e05:6f506f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4343:7107bf00: 46 us(46 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:434f:ed88ef00: 47 us(47 us): compute-0-6.local:CMA:434e:d6836f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:1063:e4e41f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:1065:c2c02f00: 43 us(43 us): compute-0-5.local:CMA:1dfe:dc648f00: 45 us(45 us): compute-0-4.local:CMA:1060:8a119f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4348:c66fef00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4347:f8689f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-6.local:CMA:4346:e124df00: 43 us(43 us): compute-0-5.local:CMA:1dfb:1b2ff00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:1062:49da4f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1dfd:9e07ff00: 42 us(42 us): compute-0-4.local:CMA:106d:89db1f00: 43 us(43 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e08:7876f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:105f:2a9b8f00: 50 us(50 us): compute-0-4.local:CMA:1066:66ff6f00: 44 us(44 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-4.local:CMA:1064:70445f00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e03:b8c18f00: 43 us(43 us): compute-0-5.local:CMA:1e02:172bef00: 42 us(42 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+ open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+compute-0-5.local:CMA:1e01:22ef4f00: 45 us(45 us):  open_hca: getaddr_netdev ERROR:No such device. Is bond0 configured?
+! RuntimeSetup(): 50 point(s) on dim. 2 is NOT valid, resetting to 1
