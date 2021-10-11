@@ -4,4 +4,4 @@ Master of Science
 Indian Institute of Science
 
 Duration of project: 
-Sept 2020-Aug 2021
+Aug 2020-Sept 2021
