@@ -1,3 +1,0 @@
-OBJ += lam_cool.o
-OBJ += wiersma_cool.o
-OBJ += source_jet.o
