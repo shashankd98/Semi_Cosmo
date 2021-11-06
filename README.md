@@ -15,8 +15,8 @@ PLUTO files:
 /PLUTO/AGN_feedback : AGN feedback run for M_0=10^{14} M_\odot, \epsilon = 10^{-4}
 
 Data analysis (pyPLUTO) files: 
-/Analysis/coolcores.py : plots the time-averaged density and standard deviation for the AGN feedback run. 
-/Analysis/evolution.py : calculates the baryon fraction
-/Analysis/snapshots.py : plots snapshots for the 2D runs
-/Analysis/visualize.py : plots relavent quantitites (density, pressure, velocity, temperature, t_cool/t_ff, Mdot) for 1D runs
-/Analysis/visualize2d.py : plots relavent quantitites (density, pressure, velocity, temperature, t_cool/t_ff, Mdot) for 2D runs
+/Visualization/coolcores.py : plots the time-averaged density and standard deviation for the AGN feedback run. 
+/Visualization/evolution.py : calculates the baryon fraction
+/Visualization/snapshots.py : plots snapshots for the 2D runs
+/Visualization/visualize.py : plots relavent quantitites (density, pressure, velocity, temperature, t_cool/t_ff, Mdot) for 1D runs
+/Visualization/visualize2d.py : plots relavent quantitites (density, pressure, velocity, temperature, t_cool/t_ff, Mdot) for 2D runs
