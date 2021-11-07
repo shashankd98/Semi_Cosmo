@@ -2,7 +2,7 @@ This work studies the cosmological evolution of baryonic gas in an idealized iso
 
 Authors: Shashank Dattathri (shashank.dattathri@gmail.com) and Prateek Sharma (prateek@iisc.ac.in). 
 
-Some of the codes used to generate the figures from the paper are uploaded here. The full data will be shared on reasonable request to the authors. 
+Some of the codes used to generate the figures from the paper are uploaded here. The full data will be shared on reasonable request to the authors. The simulations were run using PLUTO v4.4.  
 
 Description of codes: <br />
 /Codes/DK14_density_potential.py : creates the density-potential pair for a DK14 density profile.  <br />
