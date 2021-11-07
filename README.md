@@ -9,7 +9,7 @@ Description of codes: <br />
 /Codes/mass_accretion_histories.py : creates the mass accretion history profiles for the dark matter halos.  <br />
 /Codes/plane.py : plots the fundamental plane <br />
 
-PLUTO files:
+PLUTO files: <br />
 /PLUTO/Non_rad : Non-radiative run for M_0 = 10^{14} M_\odot <br />
 /PLUTO/Cooling_flow : Cooling flow run for M_0 = 10^{14} M_\odot <br />
 /PLUTO/AGN_feedback : AGN feedback run for M_0=10^{14} M_\odot, \epsilon = 10^{-4} <br />
