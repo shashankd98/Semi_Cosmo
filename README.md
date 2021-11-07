@@ -17,7 +17,7 @@ PLUTO files: <br />
 Data analysis (pyPLUTO) files:  <br />
 (the variable wdir should be pointed to the working directory)
 /Visualization/coolcores.py : plots the time-averaged density and standard deviation for the AGN feedback run.  <br />
-/Visualization/evolution.py : calculates the baryon fraction <br />
+/Visualization/baryon_fraction.py : calculates the baryon fraction <br />
 /Visualization/snapshots.py : plots snapshots for the 2D runs <br />
 /Visualization/visualize.py : plots relavent quantitites (density, pressure, velocity, temperature, t_cool/t_ff, Mdot) for 1D runs <br />
 /Visualization/visualize2d.py : plots relavent quantitites (density, pressure, velocity, temperature, t_cool/t_ff, Mdot) for 2D runs <br />
