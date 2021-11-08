@@ -15,7 +15,7 @@ PLUTO files: <br />
 /PLUTO/AGN_feedback : AGN feedback run for M_0=10^{14} M_\odot, \epsilon = 10^{-4} <br />
 
 Data analysis (pyPLUTO) files:  <br />
-(the variable wdir should be pointed to the working directory)
+(the variable wdir should be pointed to the working directory) <br />
 /Visualization/coolcores.py : plots the time-averaged density and standard deviation for the AGN feedback run.  <br />
 /Visualization/baryon_fraction.py : calculates the baryon fraction <br />
 /Visualization/snapshots.py : plots snapshots for the 2D runs <br />
