@@ -14,6 +14,14 @@ PLUTO files: <br />
 /PLUTO/Cooling_flow : Cooling flow run for M_0 = 10^{14} M_\odot <br />
 /PLUTO/AGN_feedback : AGN feedback run for M_0=10^{14} M_\odot, \epsilon = 10^{-4} <br />
 
+Data files: <br />
+/Data/1e12_1em5/: data for the M0=1e12 Msun, epsilon=1e-5 run (figure 8) <br />
+/Data/1e14_1em4/: data for the M0=1e14 Msun, epsilon=1e-4 run (figure 9) <br />
+/Data/Baryon_fraction/: data for baryon fraction for various AGN feedbback runs (figure 15) <br />
+/Data/Cycles/: data for cool core cycles for the fiducial feedback run (figure 11) <br />
+/Data/Inflow_accretion/: data for mass inflow rate (Mdot_in) and mass accretion rate (Mdot_acc) for different efficiencies and halo masses (figures 12 and 13) <br />
+/Data/Self_similar/: data for analyzing the self-similarity of density profiles for non-radiative and AGN feedback runs (figures 5 and 16 respectively) <br />
+
 Data analysis (pyPLUTO) files:  <br />
 (the variable wdir should be pointed to the working directory) <br />
 /Visualization/coolcores.py : plots the time-averaged density and standard deviation for the AGN feedback run.  <br />
